@@ -17,6 +17,8 @@ This agent based on [Super-mario-rl](https://github.com/jiseongHAN/Super-Mario-R
 ## Cloning git
 
 ```
+git clone https://github.com/jiseongHAN/StreetFighterRL.git
+cd StreetFighterRL
 ```
 
 
