@@ -1,0 +1,7 @@
+numpy
+torch>=1.6.0
+torchvision
+gym
+opencv-python
+matplotlib
+gym-retro
