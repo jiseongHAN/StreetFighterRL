@@ -46,7 +46,6 @@ python duel_dqn.py
 ```
 
 ### Result
-* score.p : save total score every 50 episode
 * *.pth : save weight of q, q_target every 50 training
 
 
